@@ -19,7 +19,7 @@ Severity:
 High
 
 Status:
-Open
+Close
 
 ## Bug ID: 002
 Title: Division by zero not handled
@@ -40,4 +40,4 @@ Severity:
 Medium
 
 Status:
-Open
+Close
