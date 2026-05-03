@@ -9,3 +9,14 @@ Functions tested:
 - Subtraction
 - Multiplication
 - Division
+
+## Test Types
+- Unit Testing: Test individual functions
+- Integration Testing: Combine operations (optional)
+
+## Tools
+- Jest (JavaScript testing framework)
+
+## Success Criteria
+- All tests pass
+- Errors handled correctly
