@@ -136,3 +136,14 @@ As a student, I want session history so that I can track learning progress.
 **Acceptance Criteria:**
 - Completed sessions listed
 - History is searchable
+## Story 11
+**User Story:**  
+As a student, I want to bookmark tutors so that I can quickly revisit preferred tutors.
+
+**Priority:** Medium  
+**Story Points:** 3
+
+**Acceptance Criteria:**
+- Student can save tutor profiles
+- Bookmarked tutors appear in favorites list
+- Student can remove bookmarks
